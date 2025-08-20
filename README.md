@@ -1,10 +1,10 @@
 <h1 align="center">toki! nimi mi li jan Dawu :3c</h1>
-<h3 align="center">nerd-type person, stenographer etc</h3>
+<h3 align="center">nerd-type person, transcriptionist etc</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unnamedau&color=blueviolet" /></p>
 
 - i’m currently working on [a plover dictionary for the version of stened taught at nait](https://github.com/unnamedau/nait-theory)
 
-- i’m currently learning stenography (at nait, crazy) and trace amounts of python and c#
+- i was learning stenography (at nait, crazy) and am currently learning trace amounts of python and c#
 
 <h3 align="left">say hi?</h3>
 <p align="left">
