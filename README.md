@@ -1,4 +1,4 @@
-<h1 align="center">toki! nimi mi li jan Dawu :3c</h1>
+<h1 align="center">toki! nimi mi li jan Tawu :3c</h1>
 <h3 align="center">nerd-type person, transcriptionist etc</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=unnamedau&color=blueviolet" /></p>
 
